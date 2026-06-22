@@ -1,0 +1,7 @@
+ucimlrepo
+pandas
+scikit-learn
+fastapi
+uvicorn
+folktables
+xgboost

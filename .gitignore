@@ -1,0 +1,11 @@
+/frontend/node_modules
+.vscode/
+
+# Backend data and model artifacts
+backend/data/
+backend/models/
+
+# Python
+venv/
+__pycache__/
+*.pyc
